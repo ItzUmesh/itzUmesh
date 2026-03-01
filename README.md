@@ -1,16 +1,97 @@
-# 💫 About Me:
-I’m currently working on: Optimizing cloud infrastructure and CI/CD pipelines as a Platform Engineer.<br><br>👯 I’m looking to collaborate on: Open-source Kubernetes operators or Terraform modules.<br><br>🤝 I’m looking for help with: Mastering advanced system design patterns for large-scale distributed systems.<br><br>🌱 I’m currently learning: Python and deepening my expertise in Oracle Cloud Infrastructure (OCI).<br><br>💬 Ask me about: Docker, Kubernetes, or how to manage complex SQL Server environments.<br><br>⚡ Fun fact: I am trying to get  out of this matrix by diving deep inside it. what is matrix let's checkout together.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=326CE5&height=120&section=header&text=Hi%20there%20👋&fontSize=40&fontColor=ffffff&animation=twinkling" alt="Header"/>
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simply.umesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itzumesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umesh.DBA@hotmail.com) 
+<h1 align="center">About Me</h1>
 
-# 💻 Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ItzUmesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ItzUmesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzUmesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <span style="color:#326CE5"><strong>Platform Engineer</strong></span> & <span style="color:#3776AB"><strong>DevOps Enthusiast</strong></span>
+</p>
+
+<p align="center">
+  I build and automate infrastructure using <strong>Kubernetes</strong>, <strong>Python</strong>, and <strong>Infrastructure-as-Code</strong>. 
+  <br/>
+  Deep-diving into the K8s API through Python-driven automation — from core fundamentals to AIOps and DevSecOps.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ItzUmesh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<h2 align="center">🚀 Featured Project</h2>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME">
+    <img src="https://img.shields.io/badge/☸️_The_Ultimate_K8s_Feature_Lab-37%2B_Projects-326CE5?style=for-the-badge" alt="K8s Feature-Lab"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>37+ hands-on Kubernetes projects</strong> across 10 phases — Core Fundamentals → Configuration & Secrets → Resilience → Storage → Networking → Scaling → Extensibility → Platform Engineering → AIOps → DevSecOps
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME">📂 View Repository</a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=326CE5&icon_color=326CE5" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=326CE5" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&background=0d1117&ring=326CE5&fire=326CE5&currStreakLabel=326CE5" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <strong>Containers & Orchestration:</strong> Kubernetes, Docker, Helm
+  <br/>
+  <strong>Languages & Scripting:</strong> Python, Bash, YAML
+  <br/>
+  <strong>IaC & Automation:</strong> Terraform, Kustomize, Crossplane
+  <br/>
+  <strong>Observability:</strong> Prometheus, Grafana, eBPF/Cilium
+  <br/>
+  <strong>Cloud:</strong> OCI (Oracle Cloud), AWS
+</p>
+
+---
+
+<h2 align="center">📫 Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=326CE5&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=326CE5&height=80&section=footer&fontSize=20&fontColor=ffffff" alt="Footer"/>
+</p>
