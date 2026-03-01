@@ -89,9 +89,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=326CE5&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=326CE5&height=80&section=footer&fontSize=20&fontColor=ffffff" alt="Footer"/>
 </p>
