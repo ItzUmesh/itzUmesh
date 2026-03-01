@@ -28,7 +28,7 @@
 <h2 align="center">🚀 Featured Project</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME">
+  <a href="https://github.com/simply.umesh/YOUR_REPO_NAME">
     <img src="https://img.shields.io/badge/☸️_The_Ultimate_K8s_Feature_Lab-37%2B_Projects-326CE5?style=for-the-badge" alt="K8s Feature-Lab"/>
   </a>
 </p>
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME">📂 View Repository</a>
+  <a href="https://github.com/simply.umesh/YOUR_REPO_NAME">📂 View Repository</a>
 </p>
 
 ---
@@ -46,12 +46,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=326CE5&icon_color=326CE5" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=326CE5" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=simply.umesh&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=326CE5&icon_color=326CE5" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simply.umesh&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=326CE5" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&background=0d1117&ring=326CE5&fire=326CE5&currStreakLabel=326CE5" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simply.umesh&theme=default&hide_border=true&background=0d1117&ring=326CE5&fire=326CE5&currStreakLabel=326CE5" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
@@ -75,14 +75,14 @@
 <h2 align="center">📫 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/simply.umesh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/simply.umesh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://instagram.com/simply.umesh">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
