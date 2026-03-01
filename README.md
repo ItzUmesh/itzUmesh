@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on: Optimizing cloud infrastructure and CI/CD pipelines as a Platform Engineer II.<br><br>👯 I’m looking to collaborate on: Open-source Kubernetes operators or Terraform modules.<br><br>🤝 I’m looking for help with: Mastering advanced system design patterns for large-scale distributed systems.<br><br>🌱 I’m currently learning: Python and deepening my expertise in Oracle Cloud Infrastructure (OCI).<br><br>💬 Ask me about: Docker, Kubernetes, or how to manage complex SQL Server environments.<br><br>⚡ Fun fact: I am trying to get  out of this matrix by diving deep inside it. what is matrix let's checkout together.
+I’m currently working on: Optimizing cloud infrastructure and CI/CD pipelines as a Platform Engineer.<br><br>👯 I’m looking to collaborate on: Open-source Kubernetes operators or Terraform modules.<br><br>🤝 I’m looking for help with: Mastering advanced system design patterns for large-scale distributed systems.<br><br>🌱 I’m currently learning: Python and deepening my expertise in Oracle Cloud Infrastructure (OCI).<br><br>💬 Ask me about: Docker, Kubernetes, or how to manage complex SQL Server environments.<br><br>⚡ Fun fact: I am trying to get  out of this matrix by diving deep inside it. what is matrix let's checkout together.
 
 
 ## 🌐 Socials:
