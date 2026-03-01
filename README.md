@@ -28,7 +28,7 @@
 <h2 align="center">🚀 Featured Project</h2>
 
 <p align="center">
-  <a href="https://github.com/simply.umesh/itzUmesh">
+  <a href="https://github.com/itzUmesh/itzUmesh">
     <img src="https://img.shields.io/badge/☸️_The_Ultimate_K8s_Feature_Lab-37%2B_Projects-326CE5?style=for-the-badge" alt="K8s Feature-Lab"/>
   </a>
 </p>
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/simply.umesh/itzUmesh">📂 View Repository</a>
+  <a href="https://github.com/itzUmesh/itzUmesh">📂 View Repository</a>
 </p>
 
 ---
@@ -75,7 +75,7 @@
 <h2 align="center">📫 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/simply.umesh">
+  <a href="https://github.com/itzUmesh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/simply.umesh">
@@ -89,8 +89,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simply.umesh&color=326CE5&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimply.umesh%2Fsimply.umesh&count_bg=%23326CE5&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Visits&edge_flat=false" alt="Profile Visits"/>
+  <img src="https://komarev.com/ghpvc/?username=itzUmesh&color=326CE5&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
 </p>
 
 <p align="center">
